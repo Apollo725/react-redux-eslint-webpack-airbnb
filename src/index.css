@@ -1,0 +1,8 @@
+body {
+  height: 100vh;
+  font-family: sans-serif;
+}
+
+button:focus {
+  outline: none
+}
